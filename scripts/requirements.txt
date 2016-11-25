@@ -1,0 +1,23 @@
+ipykernel==4.5.0
+ipython==5.1.0
+ipython-genutils==0.1.0
+ipywidgets==5.2.2
+jupyter==1.0.0
+jupyter-client==4.4.0
+jupyter-console==5.0.0
+jupyter-core==4.2.0
+-e git+https://github.com/Lasagne/Lasagne.git@996bf64c0aec6d481044495800b461cc62040041#egg=Lasagne
+matplotlib==1.5.3
+nbconvert==4.2.0
+nbformat==4.1.0
+nibabel==2.1.0
+nipype==0.12.1
+notebook==4.2.3
+numpy==1.11.2
+pandas==0.19.0
+scikit-image==0.12.3
+scikit-learn==0.18
+scipy==0.18.1
+seaborn==0.7.1
+https://github.com/Theano/Theano/archive/master.zip
+tqdm==4.8.4
