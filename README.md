@@ -1,5 +1,12 @@
 ## Residual and Plain Convolutional Neural Networks for 3D Brain MRI Classification
 
+https://arxiv.org/abs/1701.06643
+
+Authors:
+[Sergey Korolev](https://github.com/libfun), [Amir Safiullin](https://github.com/amigoml), [Mikhail Belyaev](https://github.com/mibel), [Yulia Dodonova](https://github.com/YuliaD)
+
+____
+
 Scripts for training without Docker image are located in `scripts` folder
 
 ____
@@ -46,8 +53,3 @@ Place all the .nii files and metadata.csv inside ```~/absolute/path/to_data``` (
 
 metadata.csv should have `Label` and `Path` columns for file retrieval and class labels (you can find sample /scripts/data/metadata.csv).
 `Path` value shoult be `data/some/path/to_scan.nii`
-
-______
-
-Authors:
-[@libfun](https://github.com/libfun), [@amigoml](https://github.com/amigoml), [@mibel](https://github.com/mibel), [@YuliaD](https://github.com/YuliaD)
